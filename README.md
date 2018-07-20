@@ -3,7 +3,7 @@
 本库不是对 "Bitcoin and Cryptocurrency Technologies"（《区块链 技术驱动金融》）的完整翻译，</br>
 而是我在学习本书时，把认为难以理解的部分做了重新翻译和总结，集中放在这里，供各位参考和讨论。
 
-关于本库的内容，见notes.md。
+关于本库内容的详细说明，见notes.md。
 
 # 联系方式
 
